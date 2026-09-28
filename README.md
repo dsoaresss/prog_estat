@@ -1,7 +1,5 @@
-# prog_estat
+# Programação Estatística
 
-something something
+Repositório dedicado para arquivar trabalhos envolvidos na disciplina.
 
-alteração direto no github
 
-outra alteração (no terminal)
